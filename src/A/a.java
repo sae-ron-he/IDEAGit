@@ -8,6 +8,8 @@ public class a {
 
         System.out.println("dev分支的第一次修改");
 
-        //我的测试  远程修改
+
+        //我的测试  远程修改 和师兄修改同一行
+
     }
 }
