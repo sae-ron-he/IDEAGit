@@ -1,6 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
-/.idea/
-/**/*.iml
+.idea
+.idea/workspace.xml
+*.iml
 rebel.xml
 shop-interface-plus/target/
 shop-interface/target/
