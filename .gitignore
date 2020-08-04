@@ -1,0 +1,23 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/
+/**/*.iml
+rebel.xml
+shop-interface-plus/target/
+shop-interface/target/
+shop-manage-api/.rebel-remote.xml.bak
+shop-manage-api/.rebel.xml.bak
+shop-manage-api/src/main/resources/
+shop-manage-api/target/
+shop-manage-common/target/
+shop-manage-dingding/src/main/resources/rebel.xml
+shop-manage-dingding/target/
+shop-manage-export/src/main/resources/rebel.xml
+shop-manage-export/target/
+shop-manage-job/src/main/resources/rebel.xml
+shop-manage-job/target/
+shop-manage-out/src/main/resources/rebel.xml
+shop-manage-out/target/
+shop-manage-provider/src/main/resources/rebel.xml
+shop-manage-provider/target/
+shop-manage/src/main/resources/rebel.xml
+shop-manage/target/
